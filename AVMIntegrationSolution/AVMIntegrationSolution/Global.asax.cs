@@ -11,6 +11,7 @@ namespace AVMIntegrationSolution
     {
         protected void Application_Start(object sender, EventArgs e)
         {
+            Console.WriteLine("Commit for Defect with ID: DEF8");
         }
     }
 }
